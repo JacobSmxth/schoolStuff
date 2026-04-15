@@ -18,29 +18,29 @@
 |                 | BIOL 1102K – Intro to Ecology & Lab             |           4 | A         | GenEd – STEM (Lab-based Science)                  |
 |                 | MUSC 1100 – Music Appreciation                  |           3 | A         | GenEd – Humanities (Fine Arts)                    |
 |                 | **Term Total**                                  |      **17** |           | **Running Total: 55 credits**                     |
-| **Spring 2026** | MATH 1113 – Precalculus                         |           3 | IP        | GenEd – Quantitative Skills                       |
-|                 | MATH 1401 – Elementary Statistics               |           3 | IP        | GenEd – STEM                                      |
-|                 | CSCI 2150 – Ethics & Social Issues              |           3 | IP        | Field of Study – Computer Science                 |
-|                 | CSCI 3100 – Computer Organization & Arch        |           3 | IP        | CS Major & Cybersecurity Elective                 |
-|                 | CYBR 3510 – Data Networks                       |           3 | IP        | Both Majors (shared requirement)                  |
+| **Spring 2026** | MATH 1113 – Precalculus                         |           3 | IP(B)     | GenEd – Quantitative Skills                       |
+|                 | MATH 1401 – Elementary Statistics               |           3 | IP(A)     | GenEd – STEM                                      |
+|                 | CSCI 2150 – Ethics & Social Issues              |           3 | IP(B)     | Field of Study – Computer Science                 |
+|                 | CSCI 3100 – Computer Organization & Arch        |           3 | IP(A)     | CS Major & Cybersecurity Elective                 |
+|                 | CYBR 3510 – Data Networks                       |           3 | IP(A)     | Both Majors (shared requirement)                  |
 |                 | **Term Total**                                  |      **15** |           | **Running Total: 70 credits**                     |
-| **Summer 2026** | BIOL 1101K – Biology w/Lab                      |           4 | REG        | GenEd – STEM (Complete Biology Sequence)          |
-|                 | MATH 2510 – Discrete Mathematics                |           3 | REG        | Field of Study – Computer Science (REQUIRED)      |
-|                 | ENGL 2111 – World Literature                    |           3 | REG        | GenEd – Humanities (Literature/Language)          |
+| **Summer 2026** | BIOL 1101K – Biology w/Lab                      |           4 | REG        | GenEd – STEM (Complete Biology Sequence)         |
+|                 | MATH 2510 – Discrete Mathematics                |           3 | REG        | Field of Study – Computer Science (REQUIRED)     |
+|                 | ENGL 2111 – World Literature                    |           3 | REG        | GenEd – Humanities (Literature/Language)         |
 |                 | **Term Total**                                  |      **10** |           | **Running Total: 80 credits**                     |
-| **Fall 2026**   | CSCI 2520 – Discrete Structures & Computing     |           4 | REG        | Field of Study – Computer Science (REQUIRED)      |
-|                 | CSCI 3200 – Data Structures & Analysis          |           3 | REG        | CS Major & Cybersecurity Elective                 |
-|                 | CSCI 3000 – Web Programming                     |           3 | REG        | Cybersecurity Major & CS Elective                 |
-|                 | CSCI 3250 – Computer Security *(online)*        |           3 | REG        | Cybersecurity Major & CS Elective                 |
-|                 | CYBR 3800 – Linux Operating Systems *(online)*  |           3 | REG        | Cybersecurity Major & CS Elective                 |
+| **Fall 2026**   | CSCI 2520 – Discrete Structures & Computing     |           4 | REG        | Field of Study – Computer Science (REQUIRED)     |
+|                 | CSCI 3200 – Data Structures & Analysis          |           3 | REG        | CS Major & Cybersecurity Elective                |
+|                 | CSCI 3000 – Web Programming                     |           3 | REG        | Cybersecurity Major & CS Elective                |
+|                 | CSCI 3250 – Computer Security *(online)*        |           3 | REG        | Cybersecurity Major & CS Elective                |
+|                 | CYBR 3800 – Linux Operating Systems *(online)*  |           3 | REG        | Cybersecurity Major & CS Elective                |
 |                 | **Term Total**                                  |      **16** |           | **Running Total: 96 credits**                     |
 | **Spring 2027** | CSCI 3300 – Software Engineering                |           3 |           | CS Major & Cybersecurity Elective                 |
 |                 | CSCI 3350 – Computer Forensics                  |           3 |           | Cybersecurity Major & CS Elective                 |
 |                 | CSCI 4650 – Network Security                    |           3 |           | Cybersecurity Major & CS Elective                 |
-|                 | CSCI 3410 – Database Security                   |           3 |           | Both Majors (shared requirement)                  |
+|                 | CSCI 3410 – Databases                           |           3 |           | Both Majors                                       |
 |                 | CSCI 4830 – Cloud Computing Security            |           3 |           | CS Elective & Cybersecurity Elective              |
 |                 | **Term Total**                                  |      **15** |           | **Running Total: 111 credits**                    |
-| **Summer 2027** | CSCI 3510 – Networking & Communications         |           3 |           | CS Major (shared requirement)                     |
+| **Summer 2027** | CSCI 3510 – Networking & Communications         |           3 |           | CS Major                                          |
 |                 | **Term Total**                                  |       **3** |           | **Running Total: 114 credits**                    |
 | **Fall 2027**   | CSCI 4100 – Operating Systems & File Org        |           3 |           | CS Major & Cybersecurity Elective                 |
 |                 | CSCI 4200 – Programming Languages               |           3 |           | CS Major & Cybersecurity Elective                 |
@@ -58,4 +58,5 @@
 - **BS Cybersecurity** ✓
 - **Expected Graduation:** Fall 2027
 
-> **Grade Key:** A/B = final grade, IP = In Progress, REG = Registered, but haven't started, blank = not yet enrolled
+> **Grade Key:** A/B = final grade, IP(x) = In Progress, x = current grade, REG = Registered, but haven't started, blank = not yet enrolled
+> 
