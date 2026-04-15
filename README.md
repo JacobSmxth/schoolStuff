@@ -24,15 +24,15 @@
 |                 | CSCI 3100 – Computer Organization & Arch        |           3 | IP        | CS Major & Cybersecurity Elective                 |
 |                 | CYBR 3510 – Data Networks                       |           3 | IP        | Both Majors (shared requirement)                  |
 |                 | **Term Total**                                  |      **15** |           | **Running Total: 70 credits**                     |
-| **Summer 2026** | BIOL 1101K – Biology w/Lab                      |           4 | SIP        | GenEd – STEM (Complete Biology Sequence)          |
-|                 | MATH 2510 – Discrete Mathematics                |           3 | SIP        | Field of Study – Computer Science (REQUIRED)      |
-|                 | ENGL 2111 – World Literature                    |           3 | SIP        | GenEd – Humanities (Literature/Language)          |
+| **Summer 2026** | BIOL 1101K – Biology w/Lab                      |           4 | REG        | GenEd – STEM (Complete Biology Sequence)          |
+|                 | MATH 2510 – Discrete Mathematics                |           3 | REG        | Field of Study – Computer Science (REQUIRED)      |
+|                 | ENGL 2111 – World Literature                    |           3 | REG        | GenEd – Humanities (Literature/Language)          |
 |                 | **Term Total**                                  |      **10** |           | **Running Total: 80 credits**                     |
-| **Fall 2026**   | CSCI 2520 – Discrete Structures & Computing     |           4 | SIP        | Field of Study – Computer Science (REQUIRED)      |
-|                 | CSCI 3200 – Data Structures & Analysis          |           3 | SIP        | CS Major & Cybersecurity Elective                 |
-|                 | CSCI 3000 – Web Programming                     |           3 | SIP        | Cybersecurity Major & CS Elective                 |
-|                 | CSCI 3250 – Computer Security *(online)*        |           3 | SIP        | Cybersecurity Major & CS Elective                 |
-|                 | CYBR 3800 – Linux Operating Systems *(online)*  |           3 | SIP        | Cybersecurity Major & CS Elective                 |
+| **Fall 2026**   | CSCI 2520 – Discrete Structures & Computing     |           4 | REG        | Field of Study – Computer Science (REQUIRED)      |
+|                 | CSCI 3200 – Data Structures & Analysis          |           3 | REG        | CS Major & Cybersecurity Elective                 |
+|                 | CSCI 3000 – Web Programming                     |           3 | REG        | Cybersecurity Major & CS Elective                 |
+|                 | CSCI 3250 – Computer Security *(online)*        |           3 | REG        | Cybersecurity Major & CS Elective                 |
+|                 | CYBR 3800 – Linux Operating Systems *(online)*  |           3 | REG        | Cybersecurity Major & CS Elective                 |
 |                 | **Term Total**                                  |      **16** |           | **Running Total: 96 credits**                     |
 | **Spring 2027** | CSCI 3300 – Software Engineering                |           3 |           | CS Major & Cybersecurity Elective                 |
 |                 | CSCI 3350 – Computer Forensics                  |           3 |           | Cybersecurity Major & CS Elective                 |
@@ -58,4 +58,4 @@
 - **BS Cybersecurity** ✓
 - **Expected Graduation:** Fall 2027
 
-> **Grade Key:** A/B = final grade, IP = In Progress, SIP = Soon In Progress, blank = not yet enrolled
+> **Grade Key:** A/B = final grade, IP = In Progress, REG = Registered, but haven't started, blank = not yet enrolled
