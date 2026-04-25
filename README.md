@@ -19,8 +19,8 @@
 |                 | MUSC 1100 – Music Appreciation                  |           3 | A         | GenEd – Humanities (Fine Arts)                    |
 |                 | **Term Total**                                  |      **17** |           | **Running Total: 55 credits**                     |
 | **Spring 2026** | MATH 1113 – Precalculus                         |           3 | IP(B)     | GenEd – Quantitative Skills                       |
-|                 | MATH 1401 – Elementary Statistics               |           3 | IP(A)     | GenEd – STEM                                      |
-|                 | CSCI 2150 – Ethics & Social Issues              |           3 | IP(B)     | Field of Study – Computer Science                 |
+|                 | MATH 1401 – Elementary Statistics               |           3 | IP(B)     | GenEd – STEM                                      |
+|                 | CSCI 2150 – Ethics & Social Issues              |           3 | IP(C)     | Field of Study – Computer Science                 |
 |                 | CSCI 3100 – Computer Organization & Arch        |           3 | IP(A)     | CS Major & Cybersecurity Elective                 |
 |                 | CYBR 3510 – Data Networks                       |           3 | IP(A)     | Both Majors (shared requirement)                  |
 |                 | **Term Total**                                  |      **15** |           | **Running Total: 70 credits**                     |
