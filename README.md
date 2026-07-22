@@ -18,15 +18,15 @@
 |                 | BIOL 1102K – Intro to Ecology & Lab             |           4 | A         | GenEd – STEM (Lab-based Science)                  |
 |                 | MUSC 1100 – Music Appreciation                  |           3 | A         | GenEd – Humanities (Fine Arts)                    |
 |                 | **Term Total**                                  |      **17** |           | **Running Total: 55 credits**                     |
-| **Spring 2026** | MATH 1113 – Precalculus                         |           3 | IP(B)     | GenEd – Quantitative Skills                       |
-|                 | MATH 1401 – Elementary Statistics               |           3 | IP(B)     | GenEd – STEM                                      |
-|                 | CSCI 2150 – Ethics & Social Issues              |           3 | IP(C)     | Field of Study – Computer Science                 |
-|                 | CSCI 3100 – Computer Organization & Arch        |           3 | IP(A)     | CS Major & Cybersecurity Elective                 |
-|                 | CYBR 3510 – Data Networks                       |           3 | IP(A)     | Both Majors (shared requirement)                  |
+| **Spring 2026** | MATH 1113 – Precalculus                         |           3 | B         | GenEd – Quantitative Skills                       |
+|                 | MATH 1401 – Elementary Statistics               |           3 | B         | GenEd – STEM                                      |
+|                 | CSCI 2150 – Ethics & Social Issues              |           3 | B         | Field of Study – Computer Science                 |
+|                 | CSCI 3100 – Computer Organization & Arch        |           3 | A         | CS Major & Cybersecurity Elective                 |
+|                 | CYBR 3510 – Data Networks                       |           3 | A         | Both Majors (shared requirement)                  |
 |                 | **Term Total**                                  |      **15** |           | **Running Total: 70 credits**                     |
-| **Summer 2026** | BIOL 1101K – Biology w/Lab                      |           4 | REG        | GenEd – STEM (Complete Biology Sequence)         |
-|                 | MATH 2510 – Discrete Mathematics                |           3 | REG        | Field of Study – Computer Science (REQUIRED)     |
-|                 | ENGL 2111 – World Literature                    |           3 | REG        | GenEd – Humanities (Literature/Language)         |
+| **Summer 2026** | BIOL 1101K – Biology w/Lab                      |           4 | IP(A)     | GenEd – STEM (Complete Biology Sequence)         |
+|                 | MATH 2510 – Discrete Mathematics                |           3 | IP(A)     | Field of Study – Computer Science (REQUIRED)     |
+|                 | ENGL 2111 – World Literature                    |           3 | IP(B)     | GenEd – Humanities (Literature/Language)         |
 |                 | **Term Total**                                  |      **10** |           | **Running Total: 80 credits**                     |
 | **Fall 2026**   | CSCI 2520 – Discrete Structures & Computing     |           4 | REG        | Field of Study – Computer Science (REQUIRED)     |
 |                 | CSCI 3200 – Data Structures & Analysis          |           3 | REG        | CS Major & Cybersecurity Elective                |
