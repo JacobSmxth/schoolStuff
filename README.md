@@ -24,9 +24,9 @@
 |                 | CSCI 3100 – Computer Organization & Arch        |           3 | A         | CS Major & Cybersecurity Elective                 |
 |                 | CYBR 3510 – Data Networks                       |           3 | A         | Both Majors (shared requirement)                  |
 |                 | **Term Total**                                  |      **15** |           | **Running Total: 70 credits**                     |
-| **Summer 2026** | BIOL 1101K – Biology w/Lab                      |           4 | IP(A)     | GenEd – STEM (Complete Biology Sequence)         |
-|                 | MATH 2510 – Discrete Mathematics                |           3 | IP(A)     | Field of Study – Computer Science (REQUIRED)     |
-|                 | ENGL 2111 – World Literature                    |           3 | IP(B)     | GenEd – Humanities (Literature/Language)         |
+| **Summer 2026** | BIOL 1101K – Biology w/Lab                      |           4 | A    | GenEd – STEM (Complete Biology Sequence)         |
+|                 | MATH 2510 – Discrete Mathematics                |           3 | A     | Field of Study – Computer Science (REQUIRED)     |
+|                 | ENGL 2111 – World Literature                    |           3 | A     | GenEd – Humanities (Literature/Language)         |
 |                 | **Term Total**                                  |      **10** |           | **Running Total: 80 credits**                     |
 | **Fall 2026**   | CSCI 3200 – Data Structures & Analysis          |           3 | REG        | CS Major & Cybersecurity Elective                |
 |                 | CSCI 3000 – Web Programming                     |           3 | REG        | Cybersecurity Major & CS Elective                |
