@@ -28,20 +28,20 @@
 |                 | MATH 2510 – Discrete Mathematics                |           3 | IP(A)     | Field of Study – Computer Science (REQUIRED)     |
 |                 | ENGL 2111 – World Literature                    |           3 | IP(B)     | GenEd – Humanities (Literature/Language)         |
 |                 | **Term Total**                                  |      **10** |           | **Running Total: 80 credits**                     |
-| **Fall 2026**   | CSCI 2520 – Discrete Structures & Computing     |           4 | REG        | Field of Study – Computer Science (REQUIRED)     |
-|                 | CSCI 3200 – Data Structures & Analysis          |           3 | REG        | CS Major & Cybersecurity Elective                |
+| **Fall 2026**   | CSCI 3200 – Data Structures & Analysis          |           3 | REG        | CS Major & Cybersecurity Elective                |
 |                 | CSCI 3000 – Web Programming                     |           3 | REG        | Cybersecurity Major & CS Elective                |
 |                 | CSCI 3250 – Computer Security *(online)*        |           3 | REG        | Cybersecurity Major & CS Elective                |
+|                 | CSCI 3510 – Networking & Communications *(online)* |        3 | REG        | CS Major                                         |
 |                 | CYBR 3800 – Linux Operating Systems *(online)*  |           3 | REG        | Cybersecurity Major & CS Elective                |
-|                 | **Term Total**                                  |      **16** |           | **Running Total: 96 credits**                     |
+|                 | **Term Total**                                  |      **15** |           | **Running Total: 95 credits**                     |
 | **Spring 2027** | CSCI 3300 – Software Engineering                |           3 |           | CS Major & Cybersecurity Elective                 |
 |                 | CSCI 3350 – Computer Forensics                  |           3 |           | Cybersecurity Major & CS Elective                 |
 |                 | CSCI 4650 – Network Security                    |           3 |           | Cybersecurity Major & CS Elective                 |
 |                 | CSCI 3410 – Databases                           |           3 |           | Both Majors                                       |
 |                 | CSCI 4830 – Cloud Computing Security            |           3 |           | CS Elective & Cybersecurity Elective              |
-|                 | **Term Total**                                  |      **15** |           | **Running Total: 111 credits**                    |
-| **Summer 2027** | CSCI 3510 – Networking & Communications         |           3 |           | CS Major                                          |
-|                 | **Term Total**                                  |       **3** |           | **Running Total: 114 credits**                    |
+|                 | **Term Total**                                  |      **15** |           | **Running Total: 110 credits**                    |
+| **Summer 2027** | CSCI 2520 – Discrete Structures & Computing     |           4 |           | Field of Study – Computer Science (REQUIRED)      |
+|                 | **Term Total**                                  |       **4** |           | **Running Total: 114 credits**                    |
 | **Fall 2027**   | CSCI 4100 – Operating Systems & File Org        |           3 |           | CS Major & Cybersecurity Elective                 |
 |                 | CSCI 4200 – Programming Languages               |           3 |           | CS Major & Cybersecurity Elective                 |
 |                 | CSCI 4250 – Reverse Engineering                 |           3 |           | Both Majors (shared requirement)                  |
