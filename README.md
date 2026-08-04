@@ -34,29 +34,24 @@
 |                 | CSCI 3510 – Networking & Communications *(online)* |        3 | REG        | CS Major                                         |
 |                 | CYBR 3800 – Linux Operating Systems *(online)*  |           3 | REG        | Cybersecurity Major & CS Elective                |
 |                 | **Term Total**                                  |      **15** |           | **Running Total: 95 credits**                     |
-| **Spring 2027** | CSCI 3300 – Software Engineering                |           3 |           | CS Major & Cybersecurity Elective                 |
-|                 | CSCI 3350 – Computer Forensics                  |           3 |           | Cybersecurity Major & CS Elective                 |
+| **Spring 2027** | CSCI 3350 – Computer Forensics                  |           3 |           | Cybersecurity Major & CS Elective                 |
 |                 | CSCI 4650 – Network Security                    |           3 |           | Cybersecurity Major & CS Elective                 |
-|                 | CSCI 3410 – Databases                           |           3 |           | Both Majors                                       |
-|                 | CSCI 4830 – Cloud Computing Security            |           3 |           | CS Elective & Cybersecurity Elective              |
+|                 | CYBR 3410 – Database Security                   |           3 |           | Both Majors                                       |
+|                 | CYBR 4250 – Reverse Engineering                 |           3 |           | Both Majors (shared requirement)                  |
+|                 | CSCI 3300 – Software Engineering                |           3 |           | CS Major & Cybersecurity Elective                 |
 |                 | **Term Total**                                  |      **15** |           | **Running Total: 110 credits**                    |
-| **Summer 2027** | CSCI 2520 – Discrete Structures & Computing     |           4 |           | Field of Study – Computer Science (REQUIRED)      |
-|                 | **Term Total**                                  |       **4** |           | **Running Total: 114 credits**                    |
-| **Fall 2027**   | CSCI 4100 – Operating Systems & File Org        |           3 |           | CS Major & Cybersecurity Elective                 |
-|                 | CSCI 4200 – Programming Languages               |           3 |           | CS Major & Cybersecurity Elective                 |
-|                 | CSCI 4250 – Reverse Engineering                 |           3 |           | Both Majors (shared requirement)                  |
-|                 | CSCI 4950 – Senior Project (Capstone)           |           3 |           | CS Major & Cybersecurity Elective                 |
-|                 | CYBR 4950 – Cybersecurity Capstone Project      |           3 |           | Cybersecurity Major                               |
-|                 | **Term Total**                                  |      **15** |           | **Running Total: 129 credits**                    |
+| **Summer 2027** | CYBR 4950 – Cybersecurity Capstone Project      |           3 |           | Cybersecurity Major                               |
+|                 | General Electives                               |           7 |           | Toward 120-credit minimum                         |
+|                 | **Term Total**                                  |      **10** |           | **Running Total: 120 credits**                    |
 
 ---
 
 ## Degree Summary
-- **Total Credits:** 129
+- **Total Credits:** 120
 - **GPA:** 3.54
 - **BS Computer Science** ✓
 - **BS Cybersecurity** ✓
-- **Expected Graduation:** Fall 2027
+- **Expected Graduation:** Summer 2027
 
 > **Grade Key:** A/B = final grade, IP(x) = In Progress, x = current grade, REG = Registered, but haven't started, blank = not yet enrolled
 > 
